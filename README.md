@@ -40,6 +40,10 @@ https://www.hostloc.com/thread-799742-1-2.html By [happen](https://www.hostloc.c
 
 https://www.hostloc.com/thread-793254-1-1.html By [h20](https://www.hostloc.com/space-uid-45820.html)
 
+4、**【开源】韩漫/漫画程序第二版**
+
+https://www.hostloc.com/thread-799742-1-3.html By [happen](https://www.hostloc.com/space-uid-51059.html)
+
 ## 2021年2月
 
 1、**OneDrive扩容25T直接在线升级及4.5T方法**
