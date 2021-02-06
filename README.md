@@ -18,7 +18,7 @@ Some awesome posts from hostloc.com.
 
 1、**运行在Cloudflare Workers的博客**：
 
-[https://www.hostloc.com/thread-787159-1-1.html](https://www.hostloc.com/thread-787159-1-1.html) by [zhuban](https://www.hostloc.com/space-uid-48070.html)
+[https://www.hostloc.com/thread-787159-1-1.html](https://www.hostloc.com/thread-787159-1-1.html) By [zhuban](https://www.hostloc.com/space-uid-48070.html)
 
 Related to : https://github.com/gdtool/cloudflare-workers-blog
 
@@ -57,3 +57,11 @@ https://www.hostloc.com/thread-793254-1-1.html By [h20](https://www.hostloc.com/
 4、**#NSFW#几句实用的日语入门**
 
 [https://www.hostloc.com/thread-803266-1-1.html](https://www.hostloc.com/thread-803266-1-1.html) By [zhuyun9999](https://www.hostloc.com/space-uid-6500.html)
+
+5、**鹅厂轻量/Scaleway连接WARP获取IPv6/IPv4**
+
+https://www.hostloc.com/thread-805047-1-1.html By [我y零kk](https://www.hostloc.com/space-uid-31735.html)
+
+6、**Euserv IPV6 OVZ小鸡安装wireguard教程**
+
+https://www.hostloc.com/thread-805155-1-1.html By [ymcoming](https://www.hostloc.com/space-uid-29261.html)
