@@ -1,4 +1,4 @@
-# Awesome-Posts
+# AwesomePosts
 
 Some awesome posts from hostloc.com.
 
@@ -22,26 +22,38 @@ Some awesome posts from hostloc.com.
 
 Related to : https://github.com/gdtool/cloudflare-workers-blog
 
+2、**【科普向】验证大盘鸡是不是真的大盘？超售终结者？**
+
+https://www.hostloc.com/thread-787456-1-1.html By [h20](https://www.hostloc.com/space-uid-45820.html)
+
 ## 2021年1月
 
 1、**良心云加量不加价活动详情及升级方式**：
 
-[https://www.hostloc.com/thread-800751-1-1.html](https://www.hostloc.com/thread-800751-1-1.html) by [LittleBlueCat](https://www.hostloc.com/space-uid-49448.html)
+[https://www.hostloc.com/thread-800751-1-1.html](https://www.hostloc.com/thread-800751-1-1.html) By [LittleBlueCat](https://www.hostloc.com/space-uid-49448.html)
+
+2、**【开源】漫画程序第二版**
+
+https://www.hostloc.com/thread-799742-1-2.html By [happen](https://www.hostloc.com/space-uid-51059.html)
+
+3、**【简略教程】快速自建低功耗监控站————ganglia**
+
+https://www.hostloc.com/thread-793254-1-1.html By [h20](https://www.hostloc.com/space-uid-45820.html)
 
 ## 2021年2月
 
 1、**OneDrive扩容25T直接在线升级及4.5T方法**
 
-[https://www.hostloc.com/thread-802680-1-1.html](https://www.hostloc.com/thread-802680-1-1.html) by [0md](https://www.hostloc.com/space-uid-40310.html)
+[https://www.hostloc.com/thread-802680-1-1.html](https://www.hostloc.com/thread-802680-1-1.html) By [0md](https://www.hostloc.com/space-uid-40310.html)
 
 2、**Office 365 A1 A3 E3 E5等Office开发者订阅汇总**
 
- [https://www.hostloc.com/thread-804098-1-1.html](https://www.hostloc.com/thread-804098-1-1.html) by [KusakabeSi](https://www.hostloc.com/space-uid-50937.html)
+ [https://www.hostloc.com/thread-804098-1-1.html](https://www.hostloc.com/thread-804098-1-1.html) By [KusakabeSi](https://www.hostloc.com/space-uid-50937.html)
 
 3、**【教程】自建电报机器人/Telegram bot实现消息推送**
 
-[https://www.hostloc.com/thread-804133-1-1.html](https://www.hostloc.com/thread-804133-1-1.html) by [imes](https://www.hostloc.com/space-uid-26389.html)
+[https://www.hostloc.com/thread-804133-1-1.html](https://www.hostloc.com/thread-804133-1-1.html) By [imes](https://www.hostloc.com/space-uid-26389.html)
 
 4、**#NSFW#几句实用的日语入门**
 
-[https://www.hostloc.com/thread-803266-1-1.html](https://www.hostloc.com/thread-803266-1-1.html) by [zhuyun9999](https://www.hostloc.com/space-uid-6500.html)
+[https://www.hostloc.com/thread-803266-1-1.html](https://www.hostloc.com/thread-803266-1-1.html) By [zhuyun9999](https://www.hostloc.com/space-uid-6500.html)
