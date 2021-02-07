@@ -4,6 +4,8 @@ Some awesome posts from hostloc.com.
 
 汇集实用帖子，一部分标注“火”的帖子，以及被版主评分加威望的帖子。
 
+本汇总因时间原因不保证有效性。为什么要汇总这个？因为论坛里的优质帖子可谓屈指可数。
+
 有些帖子标题可能会有改动。
 
 ## How to contribute?
@@ -20,11 +22,17 @@ Some awesome posts from hostloc.com.
 
 [https://www.hostloc.com/thread-787159-1-1.html](https://www.hostloc.com/thread-787159-1-1.html) By [zhuban](https://www.hostloc.com/space-uid-48070.html)
 
-Related to : https://github.com/gdtool/cloudflare-workers-blog
+Related to: https://github.com/gdtool/cloudflare-workers-blog
 
 2、**【科普向】验证大盘鸡是不是真的大盘？超售终结者？**
 
 https://www.hostloc.com/thread-787456-1-1.html By [h20](https://www.hostloc.com/space-uid-45820.html)
+
+3、**还记得你老婆生日吗？开源个人CRM**
+
+https://www.hostloc.com/thread-788924-1-1.html By [naiba](https://www.hostloc.com/space-uid-40159.html)
+
+Related to: https://github.com/naiba/monica-fork
 
 ## 2021年1月
 
@@ -43,6 +51,18 @@ https://www.hostloc.com/thread-793254-1-1.html By [h20](https://www.hostloc.com/
 4、**【开源】韩漫/漫画程序第二版**
 
 https://www.hostloc.com/thread-799742-1-3.html By [happen](https://www.hostloc.com/space-uid-51059.html)
+
+5、**开源大学源码**
+
+https://www.hostloc.com/thread-796997-1-1.html By [窃格瓦拉](https://www.hostloc.com/space-uid-49159.html)
+
+https://www.hostloc.com/thread-798752-1-1.html By [Nothing1024](https://www.hostloc.com/space-uid-50742.html)
+
+6、**【开源】CF-SpeedTest - 测试 CF CDN 延迟和速度，CF自选IP**
+
+https://www.hostloc.com/thread-792046-1-1.html By [qq163lucas](https://www.hostloc.com/space-uid-48304.html)
+
+Related to: https://github.com/XIU2/CloudflareSpeedTest
 
 ## 2021年2月
 
