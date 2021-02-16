@@ -89,3 +89,19 @@ https://www.hostloc.com/thread-805047-1-1.html By [我y零kk](https://www.hostlo
 6、**Euserv IPV6 OVZ小鸡安装wireguard教程**
 
 https://www.hostloc.com/thread-805155-1-1.html By [ymcoming](https://www.hostloc.com/space-uid-29261.html)
+
+7、**Minecraft面板**
+
+https://www.hostloc.com/thread-807659-1-1.html By [LittleBlueCat](https://www.hostloc.com/space-uid-49448.html)
+
+8、**Telegram Bot API**
+
+https://www.hostloc.com/thread-805549-1-1.html By [hjvn2211445](https://www.hostloc.com/space-uid-2049.html)
+
+9、**企业微信 CF server酱**
+
+https://www.hostloc.com/thread-807156-1-1.html By [arron](https://www.hostloc.com/space-uid-48487.html)
+
+10、**【ffmpeg简单上手】视频处理**
+
+https://www.hostloc.com/thread-806114-1-1.html By [小猪佩奇](https://www.hostloc.com/space-uid-51492.html)
