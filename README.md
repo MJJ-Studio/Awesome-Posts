@@ -105,3 +105,11 @@ https://www.hostloc.com/thread-807156-1-1.html By [arron](https://www.hostloc.co
 10、**【ffmpeg简单上手】视频处理**
 
 https://www.hostloc.com/thread-806114-1-1.html By [小猪佩奇](https://www.hostloc.com/space-uid-51492.html)
+
+11、**DNS-AUTO-Switch:自动检测服务器故障自动切换DNS解析**
+
+https://www.hostloc.com/thread-811088-1-1.html By [jqbaobao](https://www.hostloc.com/space-uid-3968.html)
+
+12、**[全流程通关]新手挖矿教程:如何加入矿池、计算收益、提现**
+
+https://www.hostloc.com/thread-811092-1-1.html By [Testing](https://www.hostloc.com/space-uid-51570.html)
